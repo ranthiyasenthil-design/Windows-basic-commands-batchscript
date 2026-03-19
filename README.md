@@ -66,7 +66,8 @@ List out all the associated file extensions
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-[Batch 5 Output](screenshot/202.png)
+![Batch 5 Output](screenshot/09.png)
+
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
@@ -75,8 +76,8 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-![Batch 5 Output](screenshot/2026-03-18 225632.png)
-s
+![Batch 5 Output](screenshot/10.png)
+
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -91,6 +92,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+![Batch 5 Output](screenshot/10.png)
 
 
 
@@ -100,6 +102,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+![Batch 5 Output](screenshot/11.png)
 
 
 
@@ -114,6 +117,8 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+![Batch 5 Output](screenshot/12.png)
+
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -123,6 +128,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+![Batch 5 Output](screenshot/13.png)
 
 
 
