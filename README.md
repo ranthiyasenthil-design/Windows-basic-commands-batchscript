@@ -25,38 +25,38 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
+![Batch 5 Output](screenshot/02.png)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
-
+![Batch 5 Output](screenshot/03.png)
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-
+![Batch 5 Output](screenshot/04.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-
+![Batch 5 Output](screenshot/05.png)
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![Batch 5 Output](screenshot/06.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![Batch 5 Output](screenshot/07.png)
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-
+![Batch 5 Output](screenshot/08.png)
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
-
+![Batch 5 Output](screenshot/202.png)
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
